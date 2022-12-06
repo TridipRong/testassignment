@@ -1,0 +1,11 @@
+Q > 1 >>> we tackale this with spring boot project 
+
+1st i will check alll the possible approches, then i try to solve the problem int code.
+
+Q > 2 >>>>> we are checking type pf erorr
+
+there cane be data type error, retuen type error, and also funcational error
+
+Q > 3 >>> user breake my code as a first we want to write something 
+on the application or a browser.
+then user can write perfect csv file  and save the psv file on our local storage.
